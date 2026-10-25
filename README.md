@@ -27,7 +27,7 @@ Teste se subiu: `GET http://localhost:8080/health` deve responder `{"status":"UP
 ## Roadmap
 
 - [x] Estrutura do projeto e banco com Docker
-- [ ] Cadastro de usuários
+- [x] Cadastro de usuários
 - [ ] Autenticação com JWT
 - [ ] CRUD de categorias e transações
 - [ ] Filtros, paginação e relatório mensal
